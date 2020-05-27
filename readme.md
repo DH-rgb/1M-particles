@@ -2,6 +2,10 @@
 Transform Feedbackを利用したGPGPUパーティクルアニメーション。
 下記サイトの作品をシンプルにしつつOpenGLに再実装したもの。
 
+![Demo1](./img/1.png "demo1")
+
+![Demo2](./img/2.png "demo2")
+
 [WebGL Demo](https://wgld.org/s/webgl2/sample_015/)
 
 [Transform Feedback解説](https://wgld.org/d/webgl2/w015.html)
